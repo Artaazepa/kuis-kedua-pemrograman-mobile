@@ -1,0 +1,11 @@
+<resources>
+    <!-- Nama aplikasi -->
+    <string name="app_name">Kuis2</string>
+    <string name="saldo_rp_0">Saldo: Rp. 0</string>
+
+    <!-- Kategori untuk Spinner -->
+    <string-array name="kategori_array">
+        <item>Keluar</item>
+        <item>Masuk</item>
+    </string-array>
+</resources>
