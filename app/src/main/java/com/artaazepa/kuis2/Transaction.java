@@ -14,6 +14,7 @@ public class Transaction {
     private int jumlah;
     private String kategori;
 
+
     // Constructor
     public Transaction(String tanggal, String keterangan, int jumlah, String kategori) {
         this.tanggal = tanggal;
